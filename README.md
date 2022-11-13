@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Nikit Khakholia and I'm a Software Engineer, from Bengaluru.</h2>
+<h2 align="left">Hi 👋! My name is Nikit Khakholia and I'm a Software Engineer from Bengaluru.</h2>
 
 ###
 
